@@ -17,17 +17,19 @@ Every day presents an opportunity to learn, as the trajectory of life often invo
 
 - **Clafena**  
   *A Virtual Try-on Platform*  
+  [![Website]](https://www.clafena.com)
 
-- **Backtesting**  
-  *A Trading Strategy Evaluator*  
+- **dbacT**  
+  *Trading Strategy Evaluator*
+  [![Website]](https://backtesting-eight.vercel.app)
   
+- **Clione**
+  *Financial Portfolio Optimization Platform*
+  [![Website]](https://clione-blush.vercel.app)
 
-### Interests
-
-- Travel
-- Design
-- Developement
-- Marketing
+- **Assessment Coder**
+  *An undetectable Assessment Clearing Tool*
+  [![Website]](https://www.assessmentcoder.com)
 
 ### Get in Touch
 
