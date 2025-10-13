@@ -14,16 +14,13 @@ Every day presents an opportunity to learn, as the trajectory of life often invo
 - **Clafena**  
   *A Virtual Try-on Platform*
   [Website](https://www.clafena.com)
-
 - **dbacT**  
   *Trading Strategy Evaluator*
   [Website](https://backtesting-eight.vercel.app)
-  
-- **Clione**
+- **Clione**  
   *Financial Portfolio Optimization Platform*
   [Website](https://clione-blush.vercel.app)
-
-- **Assessment Coder**
+- **Assessment Coder**  
   *An undetectable Assessment Clearing Tool*
   [Website](https://www.assessmentcoder.com)
 
