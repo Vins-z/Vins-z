@@ -11,13 +11,13 @@ Every day presents an opportunity to learn, as the trajectory of life often invo
 - Microsoft Azure
 
 ### Development
-- **Clafena**  [Website](https://www.clafena.com)
+- **Clafena**  [Website](https://www.clafena.com) 
   *A Virtual Try-on Platform*
-- **dbacT**  [Website](https://backtesting-eight.vercel.app)
+- **dbacT**  [Website](https://backtesting-eight.vercel.app)  
   *Trading Strategy Evaluator*
-- **Clione**  [Website](https://clione-blush.vercel.app)
+- **Clione**  [Website](https://clione-blush.vercel.app)  
   *Financial Portfolio Optimization Platform*
-- **Assessment Coder**  [Website](https://www.assessmentcoder.com)
+- **Assessment Coder**  [Website](https://www.assessmentcoder.com)  
   *An undetectable Assessment Clearing Tool*
 
 ### Get in Touch
