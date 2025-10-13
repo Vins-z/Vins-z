@@ -17,7 +17,6 @@ Every day presents an opportunity to learn, as the trajectory of life often invo
 
 - **Clafena**  
   *A Virtual Try-on Platform*  
-
   [Website](https://www.clafena.com)
 
 - **dbacT**  
@@ -26,12 +25,10 @@ Every day presents an opportunity to learn, as the trajectory of life often invo
   
 - **Clione**
   *Financial Portfolio Optimization Platform*
-
   [Website](https://clione-blush.vercel.app)
 
 - **Assessment Coder**
   *An undetectable Assessment Clearing Tool*
-
   [Website](https://www.assessmentcoder.com)
 
 ### Get in Touch
