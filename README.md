@@ -11,7 +11,7 @@ Every day presents an opportunity to learn, as the trajectory of life often invo
 - Microsoft Azure
 
 ### Development
-- **Clafena**  [Website](https://www.clafena.com) 
+- **Clafena** [Website](https://www.clafena.com)  
   *A Virtual Try-on Platform*
 - **dbacT**  [Website](https://backtesting-eight.vercel.app)  
   *Trading Strategy Evaluator*
