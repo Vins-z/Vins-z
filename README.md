@@ -1,8 +1,5 @@
-**Creative Developer | Student | Striving Entrepreneur**
+**Let's Build Something**
 ---
-
-### About
-Every day presents an opportunity to learn, as the trajectory of life often involves failing upwards. Each challenge offers a chance to grow. There is no better time to explore new ideas and strive to create something that can make a difference for society and a better future. The gist of it all is to create things and businesses that help drive positive change as we work towards a brighter tomorrow.
 
 ### Expertise
 - TypeScript
