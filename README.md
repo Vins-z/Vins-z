@@ -5,8 +5,8 @@
 - TypeScript, Java, Next.js, Azure, Go
 
 ### Projects
-- Backtesting Engine (C++20)
-  A backend-first, high-performance backtesting platform focused on correctness, reproducibility, and realistic execution modeling.
+- **Backtesting Engine (C++20)**  
+  *A backend-first backtesting system focused on correctness, reproducibility, and realistic execution.*
   
 - Clafena — [Website](https://www.clafena.com)  
   A virtual try-on platform built to explore real-time user interaction.
