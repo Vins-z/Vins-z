@@ -10,9 +10,9 @@
   
 - Clafena — [Website](https://www.clafena.com)  
   A virtual try-on platform built to explore real-time user interaction.
-
-- TradeSim — [Website](https://backtesting-eight.vercel.app)
-  A trading strategy builder and evaluator.
+  
+- **TradeSim** — [Website](https://backtesting-eight.vercel.app)  
+  *A tool for building and evaluating trading strategies.*
 
 - Clione — [Website](https://clione-blush.vercel.app)  
   A financial portfolio optimization project.
